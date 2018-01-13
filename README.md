@@ -8,3 +8,6 @@ B. Hierarchical clustering</br>
 C. Fuzzy clustering</br>
 D. Density-based clustering</br>
 E. Model-based clustering</b></br>
+ 
+<b>The simple cluster script shown in cluster_script.R file and the dataset as company.csv<b>
+  
